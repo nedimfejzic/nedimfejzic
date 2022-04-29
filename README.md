@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @nedimfejzic
 - 📫 How to reach me: fejzic.nedim@outlook.com
 
-**- Latest work:** 
+## Last work on:
+
 - Blamato
 - https://github.com/nedimfejzic/blamato
-- Deployed at: https://zealous-pond-0899d9e03.1.azurestaticapps.net/
 ----
 - Blazor ECommerce 
 - https://github.com/nedimfejzic/ecom-blazor
